@@ -11,6 +11,14 @@ dependencies:
   flutter:
     sdk: flutter
   plugin_platform_interface: ^2.0.2
+  permission_handler: ^11.3.1
+  http: ^1.2.2
+  #  dropdown_search: ^6.0.1
+  dropdown_search: ^5.0.6
+  intl: ^0.19.0
+  get: 4.6.6
+  cached_network_image: ^3.4.1
+  flutter_screenutil: ^5.8.4
 
 dev_dependencies:
   flutter_test:
